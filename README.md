@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0409-longest-palindrome) |
 ## Greedy
@@ -17,5 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
