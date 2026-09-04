@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sherkar/LeetCode-75/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
