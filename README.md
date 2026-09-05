@@ -24,8 +24,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Sherkar/LeetCode-75/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sherkar/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sherkar/LeetCode-75/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sherkar/LeetCode-75/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sherkar/LeetCode-75/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
